@@ -1,2 +1,3 @@
 # ms_mammals_sp_spatial_analysis
-Repository from spatial analysis of manuscript "Mammals in São Paulo State: diversity, distribution, ecology, and conservation"
+
+Repository of spatial analyzes of the manuscript "Mammals in the State of São Paulo: diversity, distribution, ecology and conservation"
