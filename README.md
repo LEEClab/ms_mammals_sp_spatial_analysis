@@ -1,6 +1,6 @@
 # Mammals in São Paulo State: diversity, distribution, ecology, and conservation
 
-This repository shares the code and data from the paper Galetti et al. (2022), that gathers data from mammals from the state of São Paulo. The paper was publisherd on *Biota Neotropica* (see complete reference below).
+This repository shares the code and data from the paper Galetti et al. (2022), that gathers data from mammals from the state of São Paulo. The paper is in press on *Biota Neotropica* (see complete reference below).
 
 The repository presents four folders: `code`, `data`, `maps`, and `paper_figures`.
 
