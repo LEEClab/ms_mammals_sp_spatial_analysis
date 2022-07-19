@@ -1,12 +1,12 @@
 # Mammals in São Paulo State: diversity, distribution, ecology, and conservation
 
-This repository shares the code and data from the paper Galetti et al. (2022), on integrating land cover, animal behavior, and master plan regulations to assess urban landscape permeability for birds. The paper was publisherd on *Biota Neotropica* (see complete reference below).
+This repository shares the code and data from the paper Galetti et al. (2022), that gathers data from mammals from the state of São Paulo. The paper was publisherd on *Biota Neotropica* (see complete reference below).
 
 The repository presents four folders: `code`, `data`, `maps`, and `paper_figures`.
 
 ## code
 
-All analyzes were performed in [R statistical environment](https://www.r-project.org/). This folder contains two R code used for such analyses: `00_prepara_data.R` to prepare data from data papers and geospatial data, and `01_spatial_analisys` to perform the maps and kernel analysis.
+All analyses were performed in [R statistical environment](https://www.r-project.org/). This folder contains two R code used for such analyses: `00_prepara_data.R` to prepare data from data papers and geospatial data, and `01_spatial_analyses` to perform the maps and kernel analysis.
 
 ## data
 
