@@ -22,9 +22,7 @@ All figures in the paper in high definition.
 
 ## Citation
 
-Galetti, M., Carmignotto, A. P., Percequillo, A. R., Santos, M. C. O., Ferraz, K. M. P. M. B., Lima, F., Vancine, M. H., Muylaert, R. L., Bonfim, F. C. G., Magioli, M., Abra, F. D., Chiarello, A., Duarte, J. M. B., Morato, R., Beisiegel, B. M., Olmos, F., Galetti Jr., P. M., Ribeiro, M. C. Mammals in São Paulo State: diversity, distribution, ecology, and conservation. (2022). Biota Neotropica. In press.
-
-[![DOI](https://doi.org/10.1590/1676-0611-BN-2022-1363)]()
+Galetti, M., Carmignotto, A. P., Percequillo, A. R., Santos, M. C. O., Ferraz, K. M. P. M. B., Lima, F., Vancine, M. H., Muylaert, R. L., Bonfim, F. C. G., Magioli, M., Abra, F. D., Chiarello, A., Duarte, J. M. B., Morato, R., Beisiegel, B. M., Olmos, F., Galetti Jr., P. M., Ribeiro, M. C. Mammals in São Paulo State: diversity, distribution, ecology, and conservation. (2022). Biota Neotropica. In press. [DOI: https://doi.org/10.1590/1676-0611-BN-2022-1363](https://doi.org/10.1590/1676-0611-BN-2022-1363)
 
 You can also cite this repository, which contains both the code and data used in the publication:  
 Galetti, M., Carmignotto, A. P., Percequillo, A. R., Santos, M. C. O., Ferraz, K. M. P. M. B., Lima, F., Vancine, M. H., Muylaert, R. L., Bonfim, F. C. G., Magioli, M., Abra, F. D., Chiarello, A., Duarte, J. M. B., Morato, R., Beisiegel, B. M., Olmos, F., Galetti Jr., P. M., Ribeiro, M. C. Mammals in São Paulo State: diversity, distribution, ecology, and conservation. (2022). Code and Data from Galetti et al. on Mammals in São Paulo State: diversity, distribution, ecology, and conservation (Version 1.0) [Code and data set]. Zenodo.   
