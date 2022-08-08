@@ -4,6 +4,8 @@ This repository shares the code and data from the thematic review by Galetti et 
 
 The repository presents four folders: `code`, `data`, `maps`, and `paper_figures`.
 
+<img align="center" width="1000" src="/paper_figures/fig03.png">
+
 ## code
 
 All analyses were performed in [R statistical environment](https://www.r-project.org/). This folder contains two R code files used for such analyses: `00_prepara_data.R` prepares data from data papers and geospatial data, and `01_spatial_analyses` performs the kernel analysis and displays maps.
